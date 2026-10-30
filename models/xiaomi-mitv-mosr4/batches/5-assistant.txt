@@ -1,0 +1,2 @@
+# OPSIONAL - pilihan keluarga: Google Assistant (mic remote & suara Liliya ikut mati)
+com.google.android.katniss

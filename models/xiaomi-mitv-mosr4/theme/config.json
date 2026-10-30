@@ -1,0 +1,14 @@
+{
+  "live_tv_package": "com.mitv.livetv",
+  "app_keys": [
+    "190:com.google.android.youtube.tv",
+    "193:com.netflix.ninja",
+    "194:com.amazon.amazonvideo.livingroom"
+  ],
+  "library_apps": ["id.laravelia.budi"],
+  "app_library": true,
+  "wallpaper": true,
+  "dock_opacity": 70,
+  "wallpaper_dim": 20,
+  "ambient_glow": false
+}

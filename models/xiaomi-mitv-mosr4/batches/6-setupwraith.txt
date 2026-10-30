@@ -1,0 +1,2 @@
+# LAUNCHER - setup wizard harus off SEBELUM launcher Google TV, kalau tidak Home jatuh ke RecoveryActivity
+com.google.android.tungsten.setupwraith

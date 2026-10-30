@@ -1,0 +1,6 @@
+# Batch 1: telemetri
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.xiaomi.tvqs.overseas
+com.google.android.partnersetup
+com.google.android.feedback

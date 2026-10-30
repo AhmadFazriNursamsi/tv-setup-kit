@@ -1,0 +1,7 @@
+# Backup TV dan foto keluarga tetap di laptop
+backups/
+*.jpg
+*.jpeg
+*.png
+*.apk
+__pycache__/

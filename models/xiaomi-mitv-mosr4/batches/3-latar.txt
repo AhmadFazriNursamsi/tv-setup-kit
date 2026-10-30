@@ -1,0 +1,8 @@
+# Batch 3: demo, cleaner, preload installer
+fusion.android.tv.demo
+com.xiaomi.mitv.tvmanager
+com.xiaomo.tv.milegal
+android.autoinstalls.config.xiaomi.amelie
+com.android.printspooler
+com.xiaomi.mimusic2
+com.google.android.play.games

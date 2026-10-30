@@ -1,0 +1,13 @@
+# OPSIONAL - pilihan keluarga: streaming yang tidak dipakai (YouTube Kids tetap)
+com.tiktok.tv
+com.vuclip.viu.tv
+com.tencent.qqlivei18n
+com.iqiyi.i18n.tv
+com.apple.atve.androidtv.appletv
+com.wbd.stream
+in.startv.hotstar.dplus.tv
+com.amazon.amazonvideo.livingroom
+com.google.android.videos
+com.vidio.android.tv
+id.visionplus.android.atv
+com.radio.fmradio

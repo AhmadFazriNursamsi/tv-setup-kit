@@ -1,0 +1,27 @@
+{
+  "name": "Xiaomi TV A 32 (2026) - MiTV-MOSR4 (irobot, MediaTek)",
+  "product_model": "MiTV-MOSR4",
+  "tested_builds": ["RTM5.220609.003.1585"],
+  "android": "Google TV 11 (SDK 30)",
+  "cleanyourtv_example": "xiaomi-mitv-mosr4",
+  "stock_launcher": "com.google.android.apps.tv.launcherx",
+  "live_tv_package": "com.mitv.livetv",
+  "input_key_service": true,
+  "home_key_service": true,
+  "disable_before_launcher": ["com.google.android.tungsten.setupwraith"],
+  "never_disable": [
+    "com.mitv.livetv",
+    "mitv.service",
+    "com.mitv.overseaservice",
+    "com.mediatek.tvinput",
+    "com.mediatek.tv.service",
+    "com.mediatek.network",
+    "com.mi.bluetooth",
+    "com.xiaomi.mitv.smartshare",
+    "com.xiaomi.wfdsinkhelperservice",
+    "com.mitv.videoplayer",
+    "com.mitv.gallery",
+    "com.xiaomi.mitv.updateservice"
+  ],
+  "tested": "2026-10-30, 33 paket off, siaran antena DVB-T2 + HDMI + YouTube/Netflix/Miracast tetap jalan"
+}

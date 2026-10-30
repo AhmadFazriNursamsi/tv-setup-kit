@@ -1,0 +1,7 @@
+# Batch 2: baris iklan / PatchWall / promo
+com.mitv.tvhome.oemtab
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.mitv.tvhome.atv
+com.xm.webcontent
+com.mitv.toolhouse
